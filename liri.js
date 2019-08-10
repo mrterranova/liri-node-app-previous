@@ -8,8 +8,8 @@ let Spotify = require("node-spotify-api");
 let userInput = process.argv.slice(3).join(" ");
 
 var spotify = new Spotify({
-    id: "a6fe2c93ccf94fbfaba05aee476edf99",
-    secret: "a64643a9f0524f82a2480a09207aa05d"
+    id: keys.spotify.id,
+    secret: keys.spotify.secret
 });
 
 
