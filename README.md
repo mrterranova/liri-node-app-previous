@@ -182,4 +182,42 @@ Running null case of 'concert-this' to show that this application functions desp
 
 ![alt text](./images/concert-this2.png)
 
+This is my spotify code. The red box highlights the artist if the user does not provide a specification/the specification is null. The blue box is where the console.log resides. Console.log outputs the code that the user will see in the terminal:
+
+![alt text](./images/spotifyCommand.png)
+
+Running the command 'spotify-this-song' to show that this application functions: 
+
+![alt text](./images/spotify-this-song.png)
+
+Running null case of 'spotify-this-song' to show that this application functions despite no specifications:
+
+![alt text](./images/spotify-this-song2.png)
+
+This is my omdb code. The red box highlights the artist if the user does not provide a specification/the specification is null. The blue box is where the console.log resides. Console.log outputs the code that the user will see in the terminal:
+
+![alt text](./images/movieCommand.png)
+
+Running the command 'movie-this' to show that this application functions: 
+
+![alt text](./images/movie-this.png)
+
+Running null case of 'movie-this' to show that this application functions despite no specifications:
+
+![alt text](./images/movie-this2.png)
+
+This is my Random.txt code. The red box highlights the artist if the user does not provide a specification/the specification is null. The blue box is where the console.log resides. Console.log outputs the code that the user will see in the terminal:
+
+![alt text](./images/doWhatSays.png)
+
+Showing you inside the random.txt file to have a better understanding of what this command will do: 
+
+![alt text](./images/do-what-it-says2.png)
+
+Running the 'do-what-it-says' command to show that this application functions based on the random.txt instructions:
+
+![alt text](./images/do-what-it-says.png)
+
+Also, in the video I added more to the random.txt file and ran the 'do-what-this-says' command. It will pull all information in random.txt and run. Please check out my video: https://vimeo.com/353163101 to see this in action!
+
 
