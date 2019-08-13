@@ -1,7 +1,7 @@
 ## LIRI Assignment
 
 ### Watch Video of the assignment as Performed by Me!!!
-https://vimeo.com/353163101
+https://vimeo.com/353225387
 
 At bottom are Images pertaining to the working assignment. 
 
@@ -165,7 +165,7 @@ require("dotenv").config();
 ### WORKING ASSIGNMENT IMAGES
 
 I've included a list of images that reflect the work that I've done for this program outside of my vimeo video which can be viewed at 
-https://vimeo.com/353163101. 
+https://vimeo.com/353225387. 
 
 This is my switch statement to show the exact commands for images: 
 ![alt text](./images/switchcase.png)
@@ -218,6 +218,6 @@ Running the 'do-what-it-says' command to show that this application functions ba
 
 ![alt text](./images/do-what-it-says.png)
 
-Also, in the video I added more to the random.txt file and ran the 'do-what-this-says' command. It will pull all information in random.txt and run. Please check out my video: https://vimeo.com/353163101 to see this in action!
+Also, in the video I added more to the random.txt file and ran the 'do-what-this-says' command. It will pull all information in random.txt and run. Please check out my video: https://vimeo.com/353225387 to see this in action!
 
 
