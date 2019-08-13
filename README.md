@@ -169,3 +169,17 @@ https://vimeo.com/353163101.
 
 This is my switch statement to show the exact commands for images: 
 ![alt text](./images/switchcase.png)
+
+This is my bandsintown code. The red box highlights the artist if the user does not provide a specification/the specification is null. The blue box is where the console.log resides. Console.log outputs the code that the user will see in the terminal:
+
+![alt text](./images/bandsintowncode.png)
+
+Running the command 'concert-this' to show that this application functions: 
+
+![alt text](./images/concert-this.png)
+
+Running null case of 'concert-this' to show that this application functions despite no specifications:
+
+![alt text](./images/concert-this2.png)
+
+
