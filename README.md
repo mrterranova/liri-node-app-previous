@@ -3,6 +3,8 @@
 ### Watch Video of the assignment as Performed by Me!!!
 https://vimeo.com/353163101
 
+At bottom are Images pertaining to the working assignment. 
+
 ### Overview
 
 In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
@@ -158,3 +160,26 @@ require("dotenv").config();
 * Make sure you append each command you run to the `log.txt` file. 
 
 * Do not overwrite your file each time you run a command.
+
+
+### WORKING ASSIGNMENT IMAGES
+
+I've included a list of images that reflect the work that I've done for this program outside of my vimeo video which can be viewed at 
+https://vimeo.com/353163101. 
+
+This is my switch statement to show the exact commands for images: 
+![alt text](./images/switchcase.png)
+
+This is my bandsintown code. The red box highlights the artist if the user does not provide a specification/the specification is null. The blue box is where the console.log resides. Console.log outputs the code that the user will see in the terminal:
+
+![alt text](./images/bandsintowncode.png)
+
+Running the command 'concert-this' to show that this application functions: 
+
+![alt text](./images/concert-this.png)
+
+Running null case of 'concert-this' to show that this application functions despite no specifications:
+
+![alt text](./images/concert-this2.png)
+
+
