@@ -12,9 +12,9 @@ In this assignment, LIRI app is made to function much like SIRI. However, while 
 
 ### Instructions (Assignment as was given)
 
-1. Navigate to the root of your project and run `npm init -y` &mdash; this will initialize a `package.json` file for your project. The `package.json` file is required for installing third party npm packages and saving their version numbers. If you fail to initialize a `package.json` file, it will be troublesome, and at times almost impossible for anyone else to run your code after cloning your project.
+1. Navigate to the root of your project. Collect all packages needed for initializing this assignment.
 
-2. Make a `.gitignore` file and add the following lines to it. This will tell git not to track these files, and thus they won't be committed to Github.
+2. Make a `.gitignore` will leave out the following from the github site.
 
 ```
 node_modules
