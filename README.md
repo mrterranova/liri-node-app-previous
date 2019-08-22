@@ -147,9 +147,11 @@ https://vimeo.com/353225387.
 
 # IMAGES BELOW OF ASSIGNMENT WORKING
 
+* Switch Statement
 This is my switch statement to show the exact commands for images: 
 ![alt text](./images/switchcase.png)
 
+* Bands In Town
 This is my bandsintown code. The red box highlights the artist if the user does not provide a specification/the specification is null. The blue box is where the console.log resides. Console.log outputs the code that the user will see in the terminal:
 
 ![alt text](./images/bandsintowncode.png)
@@ -162,6 +164,7 @@ Running null case of 'concert-this' to show that this application functions desp
 
 ![alt text](./images/concert-this2.png)
 
+* Spotify
 This is my spotify code. The red box highlights the artist if the user does not provide a specification/the specification is null. The blue box is where the console.log resides. Console.log outputs the code that the user will see in the terminal:
 
 ![alt text](./images/spotifyCommand.png)
