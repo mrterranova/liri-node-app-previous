@@ -41,7 +41,7 @@ function bandsInTownCommand(artist){
                 artist = "Cardi B";
             }
     
-            // code for bandsintown using bootcamp code
+            // code for bandsintown using bootcamp access code
             let queryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
     
             // request code and send results in one console.log format
