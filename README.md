@@ -26,15 +26,7 @@ node_modules
 
 * Inside keys.js you will attach .env and export the id and secret for spotify into liri.js
 
-4. Next, create a file named `.env`, add the following to it, replacing the values with your API keys (no quotes) once you have them:
-
-```js
-# Spotify API keys
-
-SPOTIFY_ID=your-spotify-id
-SPOTIFY_SECRET=your-spotify-secret
-
-```
+4. Next, create a file named `.env`, add the secret and the id
 
 * This file will be used by the `dotenv` package to set what are known as environment variables to the global `process.env` object in node. These are values that are meant to be specific to the computer that node is running on, and since we are gitignoring this file, they won't be pushed to github &mdash; keeping our API key information private.
 
