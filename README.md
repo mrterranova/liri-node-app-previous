@@ -177,6 +177,7 @@ Running null case of 'spotify-this-song' to show that this application functions
 
 ![alt text](./images/spotify-this-song2.png)
 
+* OMBD or Movie code
 This is my omdb code. The red box highlights the artist if the user does not provide a specification/the specification is null. The blue box is where the console.log resides. Console.log outputs the code that the user will see in the terminal:
 
 ![alt text](./images/movieCommand.png)
