@@ -121,6 +121,7 @@ function movieCommand(movie){
                 });
 }
 
+//a randomized function to support reading txt documentation for the user
 function doWhatSays(){
     // Read file random.txt. If there is an error, skip. If there isn't return data in string and separate string so can perform multiple functions.
     fs.readFile('random.txt', 'utf8', function(error, random) {
