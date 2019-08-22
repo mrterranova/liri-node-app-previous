@@ -17,7 +17,7 @@ var spotify = new Spotify({
     secret: keys.spotify.secret
 });
 
-// Switch case scenario in which user has 
+// Switch case scenario: user must know the key words to use to access this assignment
 switch (process.argv[2]) {
     case "concert-this":
         bandsInTownCommand(userInput);
