@@ -96,6 +96,7 @@ function movieCommand(movie){
              //Information given back to the user in form of one console.log
             console.log("\n-----------------------------------------------------------------\nYour Movie Information provided below:\n_____________________________\n\nTitle of the movie:\t\t\t" + response.data.Title + "\nYear the movie came out:\t\t" + response.data.Year + "\nIMDB Rating of the movie:\t\t" + response.data.Rated + "\nRotten Tomatoes Rating of the movie:\t" + response.data.imdbRating + "\nCountry where the movie was produced:\t" + response.data.Country + "\nLanguage of the movie:\t\t\t" + response.data.Language + "\nPlot of the movie:\t\t\t" + response.data.Plot + "\nActors in the movie:\t\t\t" + response.data.Actors + "\n-----------------------------------------------------------------");
             })
+	//catch any errors in code and print
                 .catch(function (error) {
                     if (error.response) {
 
