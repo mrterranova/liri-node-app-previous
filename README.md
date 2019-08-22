@@ -145,6 +145,8 @@ require("dotenv").config();
 I've included a list of images that reflect the work that I've done for this program outside of my vimeo video which can be viewed at 
 https://vimeo.com/353225387. 
 
+# IMAGES BELOW OF ASSIGNMENT WORKING
+
 This is my switch statement to show the exact commands for images: 
 ![alt text](./images/switchcase.png)
 
