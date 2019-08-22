@@ -63,6 +63,7 @@ function spotifyCommand(trackName){
     // Find track through search, type track and produce 10 results
     spotify.search({ type: 'track', query: trackName, limit:10 }, function (err, data) {
         if (err) {
+	//catch errors and print
             return console.log('Error occurred: ' + err);
         }
         
