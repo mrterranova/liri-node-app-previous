@@ -66,7 +66,7 @@ function spotifyCommand(trackName){
             return console.log('Error occurred: ' + err);
         }
         
-        // print this for appearance sake
+        // print this in console for user's information
         console.log("\n-----------------------------------------------------------------\nInformation for track: " + trackName + " provided below:\n_____________________________\n");
         
         // because multiple records print following in a for loop
