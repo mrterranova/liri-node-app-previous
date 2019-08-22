@@ -53,6 +53,7 @@ function bandsInTownCommand(artist){
             });
 }
 
+//pulls up information based on the song title
 function spotifyCommand(trackName){
     // if no argument for track then assign Ace of Base, The Sign
     if (trackName === ""){
