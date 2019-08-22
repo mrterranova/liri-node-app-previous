@@ -190,6 +190,7 @@ Running null case of 'movie-this' to show that this application functions despit
 
 ![alt text](./images/movie-this2.png)
 
+* Random.txt 
 This is my Random.txt code. The red box highlights the artist if the user does not provide a specification/the specification is null. The blue box is where the console.log resides. Console.log outputs the code that the user will see in the terminal:
 
 ![alt text](./images/doWhatSays.png)
