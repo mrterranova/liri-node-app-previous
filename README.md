@@ -24,16 +24,7 @@ node_modules
 
 3. Make a JavaScript file named `keys.js`.
 
-* Inside keys.js your file will look like this:
-
-```js
-console.log('this is loaded');
-
-exports.spotify = {
-  id: process.env.SPOTIFY_ID,
-  secret: process.env.SPOTIFY_SECRET
-};
-```
+* Inside keys.js you will attach .env and export the id and secret for spotify into liri.js
 
 4. Next, create a file named `.env`, add the following to it, replacing the values with your API keys (no quotes) once you have them:
 
