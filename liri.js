@@ -48,6 +48,7 @@ function bandsInTownCommand(artist){
             request(queryURL, function (error, response, body) {
                 if (error) console.log(error);
                 let result = JSON.parse(body)[0];
+   	//how appears to user in console
                console.log("\n-----------------------------------------------------------------\nInformation for " + artist + " provided below:\n_____________________________\n\nVenue name:\t" + result.venue.name + "\nVenue location:\t" + result.venue.city + "\nDate of Event:\t" + moment(result.datetime).format("MM/DD/YYYY") + "\n-----------------------------------------------------------------");
             });
 }
