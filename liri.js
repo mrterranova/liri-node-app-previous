@@ -33,6 +33,7 @@ switch (process.argv[2]) {
         break;
 }
 
+//api call on artist band locality and time
 function bandsInTownCommand(artist){
 
             // default condition if no artist. Assign Cardi B
