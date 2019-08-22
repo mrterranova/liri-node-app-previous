@@ -1,3 +1,4 @@
+//require .env for passcodes
 require ('dotenv').config();
 
 exports.spotify = {
