@@ -16,7 +16,8 @@ In this assignment, LIRI app is made to function much like SIRI. However, while 
 
 2. Make a `.gitignore` will leave out the following from the github site.
 
-``` (therefore you will not see the following)
+* (therefore you will not see the following)
+``` 
 node_modules
 .DS_Store
 .env
