@@ -137,10 +137,6 @@ require("dotenv").config();
 
    * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
-     * If you haven't watched "Mr. Nobody," then you should: <http://www.imdb.com/title/tt0485947/>
-
-     * It's on Netflix!
-
    * You'll use the `axios` package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
 
 4. `node liri.js do-what-it-says`
