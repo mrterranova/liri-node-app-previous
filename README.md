@@ -218,6 +218,6 @@ Running the 'do-what-it-says' command to show that this application functions ba
 
 ![alt text](./images/do-what-it-says.png)
 
-Also, in the video I added more to the random.txt file and ran the 'do-what-this-says' command. It will pull all information in random.txt and run. Please check out my video: https://vimeo.com/353225387 to see this in action! It's located at 5:50 on the video! That or use this file and write your own commands to locate your favorites in random!!
+* Also, in the video I added more to the random.txt file and ran the 'do-what-this-says' command. It will pull all information in random.txt and run. Please check out my video: https://vimeo.com/353225387 to see this in action! It's located at 5:50 on the video! That or use this file and write your own commands to locate your favorites in random!!
 
 
