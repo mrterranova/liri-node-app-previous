@@ -17,6 +17,8 @@ At bottom are Images pertaining to the working assignment.
 
    * * `do-what-it-says`
 
+   Adding an arguement will give you results of your choosing. If not, no worries, there is a condition written for that as well. 
+
 ### Overview
 
 In this assignment, LIRI app is made to function much like SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
