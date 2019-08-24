@@ -2,7 +2,7 @@
 
 ### Watch Video of the assignment as Performed by Me!!!
 
-https://vimeo.com/353225387
+It's here: https://vimeo.com/353225387
 
 At bottom are Images pertaining to the working assignment. 
 
