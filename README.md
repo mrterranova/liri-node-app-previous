@@ -17,7 +17,12 @@ At bottom are Images pertaining to the working assignment.
 
    * * `do-what-it-says`
 
-   Adding an arguement will give you results of your choosing. If not, no worries, there is a condition written for that as well. 
+   * Adding an arguement will give you results of your choosing. If not, no worries, there is a condition written for that as well. 
+
+   * No need to worry about wrapping individual words in code. This code handles seperate words after the above 4 commands.
+
+   * * Example: 'node liri-node-app movie-this Catch Me If You Can' instead of 'node liri-node-app movie-this "Catch Me If You Can"'. 
+
 
 ### Overview
 
